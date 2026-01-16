@@ -19,5 +19,4 @@
 - **For better Chatbot development you can use Dialogflow.**
 - **Even you can do better chatbot development with this strategy also. You just need to train a NLP model in better way.**
 
-
-## Just follow☝️ me and Star⭐ my repository 
+ 
