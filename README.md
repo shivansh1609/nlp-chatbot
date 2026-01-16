@@ -15,8 +15,8 @@
 - Go to the `127.0.0.1:5000/chatbot`, You can start chatting.
 
 ## Screenshots
-<img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/1.png">
-<img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/2.png">
+<img src="https://github.com/shivansh1609/nlp-chatbot/blob/main/1.png">
+<img src="https://github.com/shivansh1609/nlp-chatbot/blob/main/2.png">
 
 
 ## Notes:- 
